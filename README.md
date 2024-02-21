@@ -1,26 +1,121 @@
-### Hi there 👋
-Hi , I'm Dhaivath Lal
-I'm a learning developer and a big tech enthusiast.  <br> <br>
-  Languages : <br>
-  ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-  
-  Web : <br>
-  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-    ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-  ![TypeScript](https://img.shields.io/badge/typescript-%23323330.svg?style=for-the-badge&logo=typescript&logoColor=blue)
-  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-  ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-  ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-  
-  Other : <br>
-  ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-  
-  OS<br>
-  ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
-  ![Pop! OS](https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white)
-  ![Manjaro](https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=Manjaro&logoColor=white)
-  ![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white)
-  ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+<div style="padding: 2rem">
+    <h2>
+        Hello, I'm Dhaivath Lal <br />
+        <b style="font-size: 0.9rem"> the-dev-d </b>
+    </h2>
+    <p>
+        👋 Hi there! I'm Dhaivath Lal, an MCA student with a passion for coding
+        and technology. As a freelance developer, I enjoy leveraging my skills
+        to solve real-world problems and create innovative solutions. <br />
+        <br />
+        <a href="https://www.dhaivathlal.in"> Know more about me </a>
+        <br />
+        <br />
+        🌟 I believe in the power of continuous learning and improvement.
+        Whether it's diving into the intricacies of a new programming language
+        or mastering the latest frameworks, I thrive on the challenge of
+        expanding my knowledge base and applying it to my work.
+    </p>
+    <h2>Languages</h2>
+    <div>
+        <img
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"
+            width="50"
+            height="50"
+        />
+        <img
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"
+            width="50"
+            height="50"
+        />
+        <img
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"
+            width="50"
+            height="50"
+        />
+        <img
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg"
+            width="50"
+            height="50"
+        />
+        <img
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original-wordmark.svg"
+            width="50"
+            height="50"
+        />
+        <img
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
+            width="50"
+            height="50"
+        />
+        <img
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"
+            width="50"
+            height="50"
+        />
+        <img
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg"
+            width="50"
+            height="50"
+        />
+        <img
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"
+            width="50"
+            height="50"
+        />
+        <img
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"
+            width="50"
+            height="50"
+        />
+    </div>
+
+<h2>Frameworks</h2>
+    <div>
+        <img
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg"
+            width="50"
+            height="50"
+        />
+        <img
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"
+            width="50"
+            height="50"
+        />
+        <img
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/svelte/svelte-original-wordmark.svg"
+            width="50"
+            height="50"
+        />
+        <img
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg"
+            width="50"
+            height="50"
+        />
+        <img
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg"
+            width="50"
+            height="50"
+        />
+        <img
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/svelte/svelte-original.svg"
+            width="50"
+            height="50"
+        />
+        <img
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"
+            width="50"
+            height="50"
+        />
+        <img
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg"
+            width="50"
+            height="50"
+        />
+        <img
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg"
+            width="50"
+            height="50"
+        />
+    </div>
+</div>

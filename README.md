@@ -70,7 +70,7 @@
         />
     </div>
 
-<h2>Frameworks</h2>
+<h2>Tools</h2>
     <div>
         <img
             src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg"
@@ -118,4 +118,12 @@
             height="50"
         />
     </div>
+
+<h2>Tools</h2>
+
+<div>
+    <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ansible/ansible-original.svg" />
+    <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
+          
+</div>
 </div>

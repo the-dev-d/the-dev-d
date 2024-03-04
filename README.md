@@ -4,14 +4,14 @@
         <b style="font-size: 0.9rem"> the-dev-d </b>
     </h2>
     <p>
-        👋 Hi there! I'm Dhaivath Lal, an MCA student with a passion for coding
+        Hi there! I'm Dhaivath Lal, an MCA student with a passion for coding
         and technology. As a freelance developer, I enjoy leveraging my skills
         to solve real-world problems and create innovative solutions. <br />
         <br />
         <a href="https://www.dhaivathlal.in"> Know more about me </a>
         <br />
         <br />
-        🌟 I believe in the power of continuous learning and improvement.
+        I believe in the power of continuous learning and improvement.
         Whether it's diving into the intricacies of a new programming language
         or mastering the latest frameworks, I thrive on the challenge of
         expanding my knowledge base and applying it to my work.

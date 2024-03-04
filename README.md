@@ -126,7 +126,7 @@
     <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
           
 </div>
-
+<br> <br>
 <div>
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=the-dev-d&show_icons=true&locale=en" alt="the-dev-d" />
 </div>

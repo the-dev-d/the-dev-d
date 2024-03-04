@@ -128,6 +128,7 @@
 </div>
 <br> <br>
 <div>
+    <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=the-dev-d&show_icons=true&locale=en&layout=compact" alt="the-dev-d" /></p>
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=the-dev-d&show_icons=true&locale=en" alt="the-dev-d" />
 </div>
 </div>

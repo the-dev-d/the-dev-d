@@ -3,6 +3,9 @@
         Hello, I'm Dhaivath Lal <br />
         <b style="font-size: 0.9rem"> the-dev-d </b>
     </h2>
+    <h4>
+        <a href="https://www.dhaivathlal.in">https://www.dhaivathlal.in</a>
+    </h4>
     <p>
         Hi there! I'm Dhaivath Lal, an MCA student with a passion for coding
         and technology. As a freelance developer, I enjoy leveraging my skills

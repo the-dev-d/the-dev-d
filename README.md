@@ -1,7 +1,8 @@
 <div style="padding: 2rem">
     <h2>
         Hello, I'm Dhaivath Lal <br />
-        <b style="font-size: 0.9rem"> the-dev-d </b>
+        <b> the-dev-d </b>
+        <img src="https://64.media.tumblr.com/1808fb61fa3200260749b06c11559edf/5a92e17a7e4b5632-13/s500x750/11fc92912ae1621ce571f686ed7531d83efaa032.gifv" height="150px" align="right" />
     </h2>
     <h4>
         <a href="https://www.dhaivathlal.in">https://www.dhaivathlal.in</a>
